@@ -42,3 +42,16 @@ Subject: Enter the subject of your email.
 Message: Write your email content.
 
 2. Send the Email: Click the "Send Email" button to send your email. You will receive a confirmation message in the web interface once the email is successfully sent.
+
+### Features
+Simple and intuitive web interface for sending emails.
+
+Uses Gmail SMTP for reliable email delivery.
+
+Supports HTML and plain text email content.
+
+### Security and Privacy
+This application uses environment variables to securely handle your Gmail credentials. Ensure your .env file is never shared or committed to version control to keep your email account secure.
+
+### Contributing
+Contributions to enhance the application, fix bugs, or improve documentation are welcome. Please feel free to submit pull requests or open issues in the project repository.
