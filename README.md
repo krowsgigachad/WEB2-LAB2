@@ -36,7 +36,9 @@ Access the application by navigating to http://localhost:3000 in your web browse
 1. Fill in the Email Form:
 
 To: Enter the recipient's email address.
+
 Subject: Enter the subject of your email.
+
 Message: Write your email content.
 
 2. Send the Email: Click the "Send Email" button to send your email. You will receive a confirmation message in the web interface once the email is successfully sent.
